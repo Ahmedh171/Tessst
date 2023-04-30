@@ -1,0 +1,9 @@
+h1{
+    color: blue;
+}
+div h1{
+    color: rgb(220, 20, 20);
+}
+div p{
+    color: chocolate;
+}
